@@ -1,6 +1,7 @@
 # Analise_Tidem
 
 XI Colóquio Brasileiro de Ciências Geodésicas
+
 Curitiba, 06 a 08 de maio de 2020
 
 O trabalho visa confeccionar as marés sintéticas (MSs) pela função Tidem (disponível pelo pacote oce em programação R),
